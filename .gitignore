@@ -2,7 +2,11 @@
 __pycache__/
 *.py[codz]
 *$py.class
+*.keras
+hyperband
 
+.amlignore*
+*checkpoints
 # C extensions
 *.so
 
