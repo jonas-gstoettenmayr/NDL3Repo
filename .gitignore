@@ -4,7 +4,11 @@ __pycache__/
 *$py.class
 *.keras
 hyperband
-
+*.zip
+*cat/
+*dog/
+*fox/
+*hyperband**
 .amlignore*
 *checkpoints
 # C extensions
