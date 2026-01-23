@@ -11,6 +11,7 @@ hyperband
 *hyperband**
 .amlignore*
 *checkpoints
+*checkpoint*
 # C extensions
 *.so
 
